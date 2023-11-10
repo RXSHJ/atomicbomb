@@ -1,6 +1,6 @@
 # atomicbomb
-Discord bot that nukes servers
 
+Easy to use, easy to setup discord nuker bot
 # How to setup
 
 1. Transfer main code into a node.js project on your personal computer or a program like Replit
