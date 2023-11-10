@@ -6,7 +6,7 @@ Discord bot that nukes servers
 1. Transfer main code into a node.js project on your personal computer or a program like Replit
 2. Create a discord bot (Will not show how to, just search up a tutorial)
 3. Copy the token of your discord bot
-4. Paste the token into the variable on line ___ called token 
+4. Paste the token into the string part of the variable on line 4 called token 
 5. Change the channel names array to the ones you want
 6. You're done!
 
